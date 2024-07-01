@@ -1,0 +1,101 @@
+Author,Title
+,"IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2023, Vancouver, BC, Canada, June 17-24, 2023"
+"Alexander Wong, Yifan Wu, Saad Abbasi, Saeejith Nair, Yuhao Chen, M. Shafiee",Fast GraspNeXt: A Fast Self-Attention Neural Network Architecture for Multi-task Learning in Computer Vision Tasks for Robotic Grasping on the Edge
+"Håkon Hukkelås, F. Lindseth",Does Image Anonymization Impact Computer Vision Training?
+"Vincent Wai-Yip Lum, Kin-Lok Yeung Calvin","Photo Album Creation for Historical Newspaper through Computer Vision by Using ABBYY, VGG Model, and Yolov5"
+"Wei Qu, Gang Yao, L. Meng",Research on Radar PRI Modulation Pattern Recognition Based on Recurrent Neural Network
+"Yunsheng Ma, Liangqi Yuan, Amr Abdelraouf, Kyungtae Han, Rohit Gupta, Zihao Li, Ziran Wang",M2DAR: Multi-View Multi-Scale Driver Action Recognition with Vision Transformer
+"Hongyu Zhao, Pengfeng Li, Zhenling Chen, Kai Guo, Yiwen Chen, Chao Su",Cow Face Recognition with Noise Labels Using Vision Transformer
+"Kaixuan Li, Steven Meng",TransGait: Vision Transformer Based Gait Recognition Network
+"Steven Abreu, Muhammed Gouda, A. Lugnan, P. Bienstman",Flow cytometry with event-based vision and spiking neuromorphic hardware
+"D. Kollias, Panagiotis Tzirakis, Alice Baird, Alan S. Cowen, S. Zafeiriou","ABAW: Valence-Arousal Estimation, Expression Recognition, Action Unit Detection & Emotional Reaction Intensity Estimation Challenges"
+"Su Zhang, Ziyuan Zhao, Cuntai Guan",Multimodal Continuous Emotion Recognition: A Technical Report for ABAW5
+"Maria Parelli, Alexandros Delitzas, Nikolas Hars, G. Vlassis, Sotiris Anagnostidis, Gregor Bachmann, Thomas Hofmann",CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes
+"Aboli Rajan Marathe, Deva Ramanan, Rahee Walambe, K. Kotecha",WEDGE: A multi-weather autonomous driving dataset built from generative vision-language models
+"Weiwei Zhou, Jiada Lu, Zhaolong Xiong, Weifeng Wang",Leveraging TCN and Transformer for effective visual-audio fusion in continuous emotion recognition
+"Mustafa Munir, William Avery, R. Marculescu",MobileViG: Graph-Based Sparse Attention for Mobile Vision Applications
+"Liangqi Yuan, Yunsheng Ma, Lu Su, Ziran Wang",Peer-to-Peer Federated Continual Learning for Naturalistic Driving Action Recognition
+"Matej Grcic, Josip vSari'c, Sinivsa vSegvi'c",On Advantages of Mask-level Recognition for Outlier-aware Segmentation
+"L. Scheibenreif, Michael Mommert, Damian Borth",Masked Vision Transformers for Hyperspectral Image Classification
+"Jun Yu, Zhongpeng Cai, Renda Li, Gongpeng Zhao, Guochen Xie, Jichao Zhu, Wangyuan Zhu",Exploring Large-scale Unlabeled Faces to Enhance Facial Expression Recognition
+"Lorenzo Berlincioni, Luca Cultrera, C. Albisani, Lisa Cresti, Andrea Leonardo, Sara Picchioni, Federico Becattini, A. Bimbo",Neuromorphic Event-based Facial Expression Recognition
+"J. Kolf, Tim Rieber, Jurek Elliesen, Fadi Boutros, Arjan Kuijper, N. Damer",Identity-driven Three-Player Generative Adversarial Network for Synthetic-based Face Recognition
+"P. Komorowski, Hubert Baniecki, P. Biecek",Towards Evaluating Explanations of Vision Transformers for Medical Imaging
+"Xiaofei Huang, L. Luan, Elaheh Hatamimajoumerd, Michael Wan, Pooria Daneshvar Kakhaki, Rita Obeid, S. Ostadabbas",Posture-based Infant Action Recognition in the Wild with Very Limited Data
+"Bokyeung Lee, Hyun-Chool Shin, Bonhwa Ku, Hanseok Ko",Frame Level Emotion Guided Dynamic Facial Expression Recognition with Emotion Grouping
+"Yutong Zhou, N. Shimada",Vision + Language Applications: A Survey
+"Wei Zhou, Yinlong Qian, Zequn Jie, Lin Ma",Multi View Action Recognition for Distracted Driver Behavior Localization
+"Hao Tian, Yu Cao, P. Y. Mok",DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition
+"Bilal Porgali, Vítor Albiero, Jordan Ryda, C. Canton-Ferrer, C. Hazirbas","The Casual Conversations v2 Dataset : A diverse, large benchmark for measuring fairness and robustness in audio/vision/speech models"
+"Vu Ngoc Tu, V. Huynh, T. Nguyen, Soohyung Kim",Ensemble Spatial and Temporal Vision Transformer for Action Units Detection
+"Joelle Hanna, Michael Mommert, Damian Borth",Sparse Multimodal Vision Transformer for Weakly Supervised Semantic Segmentation
+"Giovanni Barbarani, Mohamad Mostafa, Hajali Bayramov, Gabriele Trivigno, Gabriele Berton, C. Masone, Barbara Caputo",Are Local Features All You Need for Cross-Domain Visual Place Recognition?
+"Muhammad Haseeb Aslam, Muhammad Osama Zeeshan, M. Pedersoli, Alessandro Lameiras Koerich, Simon Bacon, Eric Granger",Privileged Knowledge Distillation for Dimensional Emotion Recognition in the Wild
+"Magnus Ibh, Stella Grasshof, D. W. Hansen, Pascal Madeleine",TemPose: a new skeleton-based transformer model designed for fine-grained motion recognition in badminton
+"Huy Duong Le, Minh Quan Vu, Manh Tung Tran, Nguyen Van Phuc",Triplet Temporal-based Video Recognition with Multiview for Temporal Action Localization
+"Naga Venkata Sai Raviteja Chappa, Pha Nguyen, Alec Nelson, Han-Seok Seo, Xin Li, P. Dobbs, Khoa Luu",SPARTAN: Self-supervised Spatiotemporal Transformers Approach to Group Activity Recognition
+"Sunghwan Yoo, Yeonjeong Jeong, M. Jameela, G. Sohn",Human Vision Based 3D Point Cloud Semantic Segmentation of Large-Scale Outdoor Scenes
+"Keval Doshi, Yasin Yılmaz",Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding
+"Phuoc-Hoan Charles Le, Xinlin Li",BinaryViT: Pushing Binary Vision Transformers Towards Convolutional Models
+"Jun Zhu, Jia Jin, Zihan Yang, Xiaohao Wu, X. Wang",Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition
+"Sami Barchid, José Mennesson, C. Djeraba",Exploring Joint Embedding Architectures and Data Augmentations for Self-Supervised Representation Learning in Event-Based Vision
+"David Laines, G. Bejarano, M. González-Mendoza, G. Ochoa-Ruiz",Isolated Sign Language Recognition based on Tree Structure Skeleton Images
+"Ximan Li, Weihong Deng, Shan Li, Yong Li",Compound Expression Recognition In-the-wild with AU-assisted Meta Multi-task Learning
+"W. Costa, E. T. Martinez, L. Figueiredo, V. Teichrieb",High-level context representation for emotion recognition in images
+"Tomer Ronen, Omer Levy, A. Golbert",Vision Transformers with Mixed-Resolution Tokenization
+Apoorv Singh,Training Strategies for Vision Transformers for Object Detection
+"A. Nalmpantis, Apostolos Panagiotopoulos, John Gkountouras, Konstantinos Papakostas, Wilker Aziz",Vision DiffMask: Faithful Interpretation of Vision Transformers with Differentiable Patch Masking
+"M. Marnissi, A. Fathallah",GAN-based Vision Transformer for High-Quality Thermal Image Enhancement
+"Katelyn Morrison, Ankita Mehra, Adam Perer","Shared Interest…Sometimes: Understanding the Alignment between Human Perception, Vision Architectures, and Saliency Map Techniques"
+"Dexter Neo, Tsuhan Chen, Stefan Winkler",Large-Scale Facial Expression Recognition Using Dual-Domain Affect Fusion for Noisy Labels
+"Linzhi Huang, Mei Wang, Jiahao Liang, Weihong Deng, Hongzhi Shi, Dongchao Wen, Yingjie Zhang, Jian Zhao",Gradient Attention Balance Network: Mitigating Face Recognition Racial Bias via Gradient Attention
+"Xiaodong Dong, Ruijie Zhao, Hao Sun, Dong Wu, Jin Wang, Xu Zhou, Jiang Liu, Shun Cui, Zhongjiang He",Multi-Attention Transformer for Naturalistic Driving Action Recognition
+"Chi Xu, Yasushi Makihara, Xiang Li, Y. Yagi",Gait Recognition from Fisheye Images
+"Yufei Zhang, Rui Zhao, Ziyi Zhao, Naveen Ramakrishnan, Manoj Aggarwal, G. Medioni, Q. Ji",Robust Partial Fingerprint Recognition
+"Erkut Akdag, Zeqi Zhu, Egor Bondarev, P. D. With",Transformer-based Fusion of 2D-pose and Spatio-temporal Embeddings for Distracted Driver Action Recognition
+"Avinash Madasu, Vasudev Lal",Is Multimodal Vision Supervision Beneficial to Language?
+"Robert-Jan Bruintjes, Tomasz Motyka, J. V. Gemert",What Affects Learned Equivariance in Deep Image Recognition Models?
+"Sadaf Gulshad, Teng Long, N. V. Noord",Hierarchical Explanations for Video Action Recognition
+"Yangyi Liu, Huan Liu, Liangyan Li, Zijun Wu, Jun Chen",A Data-Centric Solution to NonHomogeneous Dehazing via Vision Transformer
+"P. Buckel, T. Oksanen, Thomas Dietmueller",RB-Dust - A Reference-based Dataset for Vision-based Dust Removal
+"Qingpeng Zhu, Wenxiu Sun, Yu Dai, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Qi Sun, Chen Change Loy, Jinwei Gu, Yi Yu, Yang Huang, Kang Zhang, Meiya Chen, Yu Wang, Yong-Chao Li, Hao Jiang, A. Muduli, Vikash Kumar, Kunal Swami, Pankaj Bajpai, Yunchao Ma, Jiajun Xiao, Zhi Ling",MIPI 2023 Challenge on RGB+ToF Depth Completion: Methods and Results
+"Spencer Low, Oliver A. Nina, A. Sappa, E. Blasch, Nathan Inkawhich",Multi-modal Aerial View Object Classification Challenge Results - PBVS 2023
+"Dong Wang, J. Guo, Qiqi Shao, Haochi He, Zhian Chen, Chuanbao Xiao, Ajian Liu, Sergio Escalera, H. Escalante, Lei Zhen, Jun Wan, Jiankang Deng",Wild Face Anti-Spoofing Challenge 2023: Benchmark and Results
+"Spencer Low, Oliver A. Nina, A. Sappa, Erik Blasch, Nathan Inkawhich",Multi-modal Aerial View Image Challenge: Translation from Synthetic Aperture Radar to Electro-Optical Domain Results - PBVS 2023
+"Arpit Bansal, Hong-Min Chu, Avi Schwarzschild, Soumyadip Sengupta, Micah Goldblum, Jonas Geiping, T. Goldstein",Universal Guidance for Diffusion Models
+"Armstrong Aboah, Bin Wang, Ulas Bagci, Y. Adu-Gyamfi",Real-time Multi-Class Helmet Violation Detection Using Few-Shot Data Sampling Technique and YOLOv8
+"Riccardo Corvi, D. Cozzolino, G. Poggi, Koki Nagano, L. Verdoliva",Intriguing properties of synthetic images: from generative adversarial networks to diffusion models
+"M. Naphade, Shuo Wang, D. Anastasiu, Zhenghang Tang, Ming-Ching Chang, Yue Yao, Liang Zheng, Mohammed Shaiqur Rahman, Meenakshi S. Arya, Anuj Sharma, Qi Feng, Vitaly Ablavsky, S. Sclaroff, Pranamesh Chakraborty, Sanjita Prajapati, Alice Li, Shangru Li, Krishna Kunadharaju, Shenxin Jiang, Ramalingam Chellappa",The 7th AI City Challenge
+"Yawei Li, K. Zhang, Jingyun Liang, Jiezhang Cao, Ce Liu, R. Gong, Yulun Zhang, H. Tang, Yun Liu, D. Demandolx, Rakesh Ranjan, R. Timofte, L. Van Gool",LSDIR: A Large Scale Dataset for Image Restoration
+"Jordan Shipard, A. Wiliem, Kien Nguyen Thanh, Wei Xiang, C. Fookes",Diversity is Definitely Needed: Improving Model-Agnostic Zero-shot Classification via Stable Diffusion
+"A. Vats, D. Anastasiu","Enhancing Retail Checkout through Video Inpainting, YOLOv8 Detection, and DeepSort Tracking"
+"Wei Zhang, Bowen Ma, Feng Qiu, Yu-qiong Ding",Multi-modal Facial Affective Analysis based on Masked Autoencoder
+"Florin-Alexandru Vasluianu, Tim Seizinger, R. Timofte",WSRD: A Novel Benchmark for High Resolution Image Shadow Removal
+"Bo-Wen Zeng, Xuhui Liu, Sicheng Gao, Boyu Liu, Hong Li, Jianzhuang Liu, Baochang Zhang",Face Animation with an Attribute-Guided Diffusion Model
+"M. Singha, Ankit Jha, Bhupendra S. Solanki, Shirsha Bose, Biplab Banerjee",APPLeNet: Visual Attention Parameterized Prompt Learning for Few-Shot Remote Sensing Image Generalization using CLIP
+"S. Sarkar, Ashwin Ramesh Babu, Sajad Mousavi, Sahand Ghorbanpour, Vineet Gundecha, Antonio Guillen, Ricardo Luna, Avisek Naug",RL-CAM: Visual Explanations for Convolutional Networks using Reinforcement Learning
+"Munkhjargal Gochoo, Munkh-Erdene Otgonbold, Erkhembayar Ganbold, J. Hsieh, Ming-Ching Chang, Ping-Yang Chen, Byambaa Dorj, Hamad Al Jassmi, Ganzorig Batnasan, F. Alnajjar, Mohammed Abduljabbar, Fangting Lin",FishEye8K: A Benchmark and Dataset for Fisheye Camera Object Detection
+"Yue Han, Yang Lei, V. Shkolnikov, Daisy Xin, Alicia Auduong, Steven Barcelo, J. Allebach, E. Delp",An Ensemble Method with Edge Awareness for Abnormally Shaped Nuclei Segmentation
+"Jun Yu, Renda Li, Zhongpeng Cai, Gongpeng Zhao, Guochen Xie, Jichao Zhu, Wangyuan Zhu",Local Region Perception and Relationship Learning Combined with Feature Fusion for Facial Action Unit Detection
+"Rui Graça, Brian Mcreynolds, T. Delbrück",Shining light on the DVS pixel: A tutorial and discussion about biasing and optimization
+"Yannick Schnider, Stanisław Woźniak, Mathias Gehrig, J. Lecomte, Axel von Arnim, L. Benini, D. Scaramuzza, A. Pantazi",Neuromorphic Optical Flow and Real-time Implementation with Event Cameras
+"K. Gunasekaran, Nikita Jaiman",Now You See Me: Robust Approach to Partial Occlusions
+"Silvio Giancola, A. Cioppa, Julia Georgieva, Johsan Billingham, A. Serner, Kerry Peek, Bernard Ghanem, Marc Van Droogenbroeck",Towards Active Learning for Action Spotting in Association Football Videos
+"Mert Keser, Gesina Schwalbe, Azarm Nowzad, Alois Knoll",Interpretable Model-Agnostic Plausibility Verification for 2D Object Detectors Using Domain-Invariant Concept Bottleneck Models
+Shreyank N. Gowda,Synthetic Sample Selection for Generalized Zero-Shot Learning
+"V. Marsocci, Nicolas Gonthier, A. Garioud, Simone Scardapane, C. Mallet",GeoMultiTaskNet: remote sensing unsupervised domain adaptation using geographical coordinates
+"Marcela Mera-Trujillo, Shivang Patel, Yu Gu, Gianfranco Doretto",Self-supervised Interest Point Detection and Description for Fisheye and Perspective Images
+"K. Nadimpalli, A. Chattopadhyay, Bastian Alexander Rieck",Euler Characteristic Transform Based Topological Loss for Reconstructing 3D Images from Single 2D Slices
+"Meiling Fang, Marco Huber, N. Damer",SynthASpoof: Developing Face Presentation Attack Detection Based on Privacy-friendly Synthetic Data
+"Daniel Shea, Sourabh Kulhare, R. Millin, Zohreh Laverriere, C. Mehanian, Charles B. Delahunt, Dipayan Banik, Xinliang Zheng, M. Zhu, Ye Ji, Travis Ostbye, Martha Mehanian, Atinuke Uwajeh, A. Akinsete, Fen Wang, M. Horning",Deep Learning Video Classification of Lung Ultrasound Features Associated with Pneumonia
+"Weiyun Jiang, Vivek Boominathan, A. Veeraraghavan",NeRT: Implicit Neural Representations for Unsupervised Atmospheric Turbulence Mitigation
+"Anna Arias-Duart, Ettore Mariotti, D. García-Gasulla, J. Alonso-Moral",A Confusion Matrix for Evaluating Feature Attribution Methods
+"Weihang Ran, W. Yuan, R. Shibasaki",Few-Shot Depth Completion Using Denoising Diffusion Probabilistic Model
+"Alexander Koenig, Maximilian Schambach, J. Otterbach",Uncovering the Inner Workings of STEGO for Safe Unsupervised Semantic Segmentation
+"Rizhao Fan, Matteo Poggi, S. Mattoccia",Contrastive Learning for Depth Prediction
+"Tejas Anvekar, Dena Bazazian",GPr-Net: Geometric Prototypical Network for Point Cloud Few-Shot Learning
+"Wolfgang M. Pernice, Michael Doron, A. Quach, Aditya Pratapa, Sultan Kenjeyev, N. Veaux, Michio Hirano, Juan C. Caicedo",Out of Distribution Generalization via Interventional Style Transfer in Single-Cell Microscopy
+"O. Mutlu, Mohammadmahdi Honarmand, Saimourya Surabhi, Dennis P. Wall",TempT: Temporal consistency for Test-time adaptation
+"Juewen Peng, Zhiyu Pan, Chengxin Liu, Xianrui Luo, Huiqiang Sun, Liao Shen, Ke Xian, Zhiguo Cao",Selective Bokeh Effect Transformation
+"Pushkar Shukla, Sushil Bharati, Matthew A. Turk",CAVLI - Using image associations to produce local concept-based explanations
+"Yoanna Martínez-Díaz, Heydi Mendez Vazquez, Luis S. Luevano, M. González-Mendoza",Exploring the Effectiveness of Lightweight Architectures for Face Anti-Spoofing
